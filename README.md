@@ -8,7 +8,7 @@ Your task is to design and build a Python program that generates strong, secure 
 - Ensure the passwords are a mix of uppercase and lowercase letters, numbers, and special characters.
 - Allow users to specify the length and number of passwords to generate.
 
-  ## Pro Tips:
+## Pro Tips:
 - Research best practices for password security.
 - Utilize Python's random library for generating random characters.
 - Provide clear user instructions within your script.
